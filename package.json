@@ -1,0 +1,21 @@
+{
+  "name": "sea-static",
+  "version": "1.0.4",
+  "description": "",
+  "main": "server.js",
+  "bin" : {
+    "srs" : "./bin/cmd"
+  },
+  "dependencies": {
+    "better-opn": "^1.0.0",
+    "ejs": "^3.0.1",
+    "etag": "^1.8.1",
+    "yargs": "^15.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "seashiner",
+  "license": "ISC"
+}
