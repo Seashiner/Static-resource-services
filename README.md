@@ -429,7 +429,7 @@ response.setHeader('cache-control','max-age = 60'); // 最大时效 60s
 
 【注意】使用浏览器地址栏输入 url 访问资源，不能强制缓存；只有引用的外部资源才能使用强制缓存（例如 引用的 css 和 js 以及图片）
 
-![image-20200308172259342](E:\尚硅谷课程\git\课件\assets\image-20200308172259342.png)
+![image-20200308172259342](E:\尚硅谷课程\git\练习\Static resource services\images\image-20200308172259342.png)
 
 ### 协商缓存的代码实现
 
